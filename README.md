@@ -15,6 +15,6 @@ A mobile application that gives you all the possible solutions for the famous n-
 
 
 ## How does it work ?
-I solved the problem using a brute force algorithm with some optimisations which are:
+I solved the problem using a brute force algorithm with some optimizations which are:
 -  We use an array of n elements instead of using nxn arrays.
 -  Whenever we find a case where two queens attack each other we stop that case.
